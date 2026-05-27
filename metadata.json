@@ -1,0 +1,6 @@
+{
+  "name": "Ethereal Birthday Celebration",
+  "description": "A luxurious, romantic, and cinematic Happy Birthday experience in red and white aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
