@@ -281,7 +281,7 @@ const VideoSection = () => {
               poster="/nikhil_4.jpg"
             >
               <source src="/nikhil_video.mp4" type="video/mp4" />
-              <source src="public/Screen Recording 2026-05-27 220559.mp4" type="video/mp4" />
+              <source src="https://drive.google.com/file/d/1uw0Nb2hCFrYCew-eaVvrX2R_Qrw_6qHf/view?usp=sharing" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 
