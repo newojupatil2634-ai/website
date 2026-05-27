@@ -280,7 +280,7 @@ const VideoSection = () => {
               playsInline
               poster="/nikhil_4.jpg"
             >
-              <source src="/nikhil_video.mp4" type="video/mp4" />
+              <source src="/public/nikhil_video.mp4" type="video/mp4" />
              
               Your browser does not support the video tag.
             </video>
